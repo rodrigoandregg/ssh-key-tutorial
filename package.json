@@ -4,7 +4,8 @@
   "description": "Tutorial paso a paso para generar una clave SSH y agregarla al ssh-agent, con manejo de errores comunes.",
   "main": "index.html",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "format": "prettier --write ."
   },
   "keywords": [
     "SSH key generation",
