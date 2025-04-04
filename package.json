@@ -1,0 +1,26 @@
+{
+  "name": "ssh-key-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial paso a paso para generar una clave SSH y agregarla al ssh-agent, con manejo de errores comunes.",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "SSH key generation",
+    "ssh-agent tutorial",
+    "how to generate SSH key",
+    "add SSH key to ssh-agent",
+    "SSH key setup",
+    "ssh-agent errors",
+    "SSH tutorial",
+    "manage SSH keys",
+    "create SSH key pair",
+    "SSH authentication setup"
+  ],
+  "author": "Rodrigo Andre Gutierrez <rodrigoandregutierrez@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
